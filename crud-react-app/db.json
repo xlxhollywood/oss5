@@ -1,0 +1,50 @@
+{
+  "user": [
+    {
+      "name": "John",
+      "email": "john@example.com",
+      "phone": "(555) 555-1234",
+      "id": "1"
+    },
+    {
+      "name": "Mary",
+      "email": "\tmary@example.com",
+      "phone": "(555) 555-1234",
+      "id": "2"
+    },
+    {
+      "name": "Dooley",
+      "email": "july@example.com",
+      "phone": "(555) 555-8521",
+      "id": "3"
+    },
+    {
+      "name": "Moe",
+      "email": "Moe@example.com",
+      "phone": "(555) 555-7410",
+      "id": "4"
+    },
+    {
+      "name": "Doe",
+      "email": "Doe@example.com",
+      "phone": "(555) 555-7896",
+      "id": "5"
+    },
+    {
+      "id": "282c",
+      "name": "OH SE HOON",
+      "email": "saint0325@handong.ac.kr",
+      "phone": "010-1234-5678",
+      "studentId": "22101050",
+      "major": "CSEE"
+    },
+    {
+      "id": "e421",
+      "name": "sehun",
+      "email": "saint0325@handong.ac.kr",
+      "phone": "010-1234-5678",
+      "studentId": "123",
+      "major": "123"
+    }
+  ]
+}
